@@ -1,3 +1,39 @@
+# StarwarsApi Assignment
+I have cloned the Starwars static webpage using React + Chakra UI and deployed it on Vercel.
+
+# Run in local and Installation
+
+    1. Clone the repo
+
+>        ### git clone https://github.com/khushboo-choudhary/starwarsapi.git
+
+>        ### cd starwars
+
+    2. Install NPM Packages
+        
+>        ### npm install
+
+    3. Build and Start the Server
+            
+>        ### npm start
+
+    4. Vercel Link 
+
+>        ### `https://starwarsapi-two.vercel.app/`    
+
+
+## How website look like
+
+**You can go through the whole website deployed link is —**
+[https://starwarsapi-two.vercel.app/](https://starwarsapi-two.vercel.app/)
+
+### ScreenShots
+1). Home Page.
+![starwars](https://github.com/khushboo-choudhary/Heliverse/assets/30701525/13621dcf-0bde-4024-92c1-76c70ef858c1)
+###
+2). Favorite Page.
+![Screenshot 2024-05-26 011755](https://github.com/khushboo-choudhary/Heliverse/assets/30701525/54291636-7275-4416-91d3-37f40d8e3b6e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
